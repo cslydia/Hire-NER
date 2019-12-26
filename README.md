@@ -26,7 +26,7 @@ The configuration file controls the network structure, I/O, training setting and
 
 
 #### Models 
-    Our pre-trained model is put in [result](result). 
+Our pre-trained model is put in [result](result). 
 
 
 ## Citation
