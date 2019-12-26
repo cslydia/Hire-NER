@@ -26,7 +26,7 @@ The configuration file controls the network structure, I/O, training setting and
 
 
 #### Models 
-Our pre-trained model is put in [result](result). 
+Our pre-trained model is put in [lstmcrf.model](https://drive.google.com/drive/folders/1G3kN1WsPJDVk9FdVUtIdv7DXd55p3yv0?usp=sharing). 
 
 
 ## Citation
