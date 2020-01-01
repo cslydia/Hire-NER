@@ -1,17 +1,17 @@
--DOCSTART- -X- O O
+-DOCSTART- O
 
-EU NNP I-NP S-ORG
-rejects VBZ I-VP O
-German JJ I-NP S-MISC
-call NN I-NP O
-to TO I-VP O
-boycott VB I-VP O
-British JJ I-NP S-MISC
-lamb NN I-NP O
-. . O O
+EU S-ORG
+reject O
+German S-MISC
+call O
+to O
+boycott O
+British S-MISC
+lamb O
+. O
 
-Peter NNP I-NP B-PER
-Blackburn NNP I-NP E-PER
+Peter B-PER
+Blackburn E-PER
 
-BRUSSELS NNP I-NP S-LOC
-1996-08-22 CD I-NP O
+BRUSSELS S-LOC
+1996-08-22 O
